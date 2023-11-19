@@ -32,4 +32,4 @@ node deploycomms.js
 
 ## Credintals
 Original bot: [Pointerbot](https://github.com/Zukaritasu/pointerbot)
-Free host [Discloud](https://discloudbot.com/) or [Pylex Nodes](https://www.pylexnodes.net/)
+Free host [Pylex Nodes](https://www.pylexnodes.net/)
