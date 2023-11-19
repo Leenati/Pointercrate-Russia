@@ -1,0 +1,50 @@
+{
+	"urls": {
+		"pointercrate": "https://pointercrate.com/",
+		"flags": "https://flagcdn.com/h240/",
+		"demonlist_icon": "https://cdn.discordapp.com/attachments/840591465565782017/1175821502004871248/niP4HvV.png"
+	},
+	"trophy": {
+		"extreme": {
+			"tops": [1, 25, 50, 75, 100, 125], 
+			"trophys": [
+				"https://cdn.discordapp.com/attachments/1175427121787711529/1175844606101946419/nLfYBBj.png",
+				"https://cdn.discordapp.com/attachments/1175427121787711529/1175844607892914236/o4kuo62.png",
+				"https://cdn.discordapp.com/attachments/1175427121787711529/1175844607607713882/YotLZC5.png",
+				"https://cdn.discordapp.com/attachments/1175427121787711529/1175844607318315048/f6AY9tX.png",
+				"https://cdn.discordapp.com/attachments/1175427121787711529/1175844606999527464/ajlwY2z.png",
+				"https://cdn.discordapp.com/attachments/1175427121787711529/1175844606739492946/N7pXms7.png"
+			],
+			"default": "https://cdn.discordapp.com/attachments/1175427121787711529/1175844606508814466/5VdnSpt.png"
+		},
+		"player": {
+			"tops": [1, 10, 25, 50, 100, 250, 500, 1000],
+			"trophys": [
+				"<:player_top_1:1175843352948781119>",
+				"<:player_top_10:1175843372431327383>",
+				"<:player_top_25:1175843391930638418>",
+				"<:player_top_50:1175843406581354556>",
+				"<:player_top_100:1175843421802483722>",
+				"<:player_top_250:1175843436985843712>",
+				"<:player_top_500:1175843460301983754>",
+				"<:player_top_1000:1175843486084370532>"
+			],
+			"default": ""
+		},
+		"demon": {
+			"tops": [1, 25, 50, 75, 100, 125],
+			"trophys": [
+				"<:1_trophy:1175843501150322779>",
+				"<:2_trophy:1175843512227483700>",
+				"<:3_trophy:1175843526634913833>",
+				"<:4_trophy:1175843538404134992>",
+				"<:5_trophy:1175843550307569725>",
+				"<:6_trophy:1175843562483613707>"
+			],
+			"default": "<:7_trophy:1175843572201828352>"
+		}
+	},
+	"emojis": {
+		"arrow": "<:gd_img_flag:1175843582419140638>"
+	}
+}

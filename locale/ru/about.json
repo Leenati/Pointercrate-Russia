@@ -1,0 +1,10 @@
+{
+    "title": "О боте Pointercrate Russia",
+    "description": "Этот бот предоставляет информацию о игроках и уровнях с сайта Pointercrate.\n\nБот разработан на библиотеке [discord.js](https://discord.js.org/) и делает HTTP запросы через [Pointercrate API](https://www.pointercrate.com/documentation/index) чтобы получить информацию запрошенную конечным пользователем.\n\nОснова бота разработана [Zukaritasu](https://github.com/Zukaritasu) и переработана [Leenati](https://github.com/Leenati)",
+    "color": 3054334,
+    "author": {
+      "name": "Leenati",
+      "url": "https://github.com/Leenati",
+      "icon_url": "https://avatars.githubusercontent.com/u/81458708?v=4"
+    }
+  }
