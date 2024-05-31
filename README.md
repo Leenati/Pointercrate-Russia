@@ -30,6 +30,5 @@ Also, if you edited commands info run **deploycomms.js** to update it on discord
 node deploycomms.js
 ```
 
-## Credintals
+## Credentials
 Original bot: [Pointerbot](https://github.com/Zukaritasu/pointerbot)
-Free host [Pylex Nodes](https://www.pylexnodes.net/)
